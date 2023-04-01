@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
+[![MasterHead](https://giffiles.alphacoders.com/141/14162.gif)](https://rishavchanda.io)
 <img src="https://memestatic1.fjcdn.com/thumbnails/comments/Nice+compilation+op+have+some+oc+i+made+earlier+today+_81477ae44c55639c35993782d5d8d608.gif" alt="Italian Trulli" class="mirrorY" width=150px align="right">
 <h1 align="center">Hi 👋, I'm Ilya Belyak</h1>
 <h3 align="center">I am studying to be a software engineer at ITMO University</h3>
