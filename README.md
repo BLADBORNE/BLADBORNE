@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2860599/screenshots/6254256/assassin_s-creed.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ilya Belyak</h1>
 
