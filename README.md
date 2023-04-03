@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/09Engineering-670x375%402x.gif">
+  <img src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
 </p>
 
 
