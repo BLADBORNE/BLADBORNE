@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
+  <img src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952d2ea76916035d956e0b35201f79d683edf482f3a&rid=giphy.gif&ct=g">
 </p>
 
 
