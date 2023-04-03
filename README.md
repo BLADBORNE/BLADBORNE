@@ -1,4 +1,7 @@
-[![MasterHead](https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://media.tenor.com/OjVjDqcWaIoAAAAd/stray-coding.gif">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Ilya Belyak</h1>
 
