@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Ilya Belyak</h1>
 
-<h3 align="center">I am studying to be a software engineer at ITMO University</h3>
+<h3 align="center">I'm studying to be a backend software engineer. </h3>
 
 
 
